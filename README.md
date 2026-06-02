@@ -1,5 +1,6 @@
-# NEXUS
+![NEXUS Screenshot](docs/cahtapp.png)
 
+# NEXUS
 Secure Real-Time Chat Application with End-to-End Encryption.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
