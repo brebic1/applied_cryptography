@@ -1,4 +1,6 @@
-![NEXUS Screenshot](docs/cahtapp.png)
+<p align="center">
+  <img src="docs/cahtapp.png" width="900">
+</p>
 
 # NEXUS
 Secure Real-Time Chat Application with End-to-End Encryption.
